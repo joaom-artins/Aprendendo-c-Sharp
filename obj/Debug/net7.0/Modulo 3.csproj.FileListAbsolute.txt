@@ -1,0 +1,15 @@
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\bin\Debug\net7.0\Modulo 3.exe
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\bin\Debug\net7.0\Modulo 3.deps.json
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\bin\Debug\net7.0\Modulo 3.runtimeconfig.json
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\bin\Debug\net7.0\Modulo 3.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\bin\Debug\net7.0\Modulo 3.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.csproj.AssemblyReference.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.AssemblyInfoInputs.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.AssemblyInfo.cs
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.csproj.CoreCompileInputs.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\refint\Modulo 3.dll
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.pdb
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\Modulo 3.genruntimeconfig.cache
+C:\Users\joaom\OneDrive\Área de Trabalho\Estudos\ADS\Desenvolvendo em c#\Modulo_3\obj\Debug\net7.0\ref\Modulo 3.dll
